@@ -1,0 +1,9 @@
+[package]
+name = "vagus"
+version = "0.1.0"
+authors = [ "Jumpei Ogawa <phanective@gmail.com>" ]
+edition = "2018"
+
+[dependencies]
+actix-rt = "1.0.0"
+actix-web = "2.0.0"
